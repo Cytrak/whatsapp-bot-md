@@ -78,7 +78,7 @@ A simple WhatsApp User bot.
 
 6. **Enter Environment Variables:**
    ```sh
-   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+   echo "SESSION_ID = cytrak9
    PREFIX = .
    STICKER_PACKNAME = LyFE
    ALWAYS_ONLINE = false
@@ -89,7 +89,7 @@ A simple WhatsApp User bot.
    BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
    MAX_UPLOAD = 200
    REJECT_CALL = false
-   SUDO = 989876543210
+   SUDO = 254715155196
    TZ = Asia/Kolkata
    VPS = true
    AUTO_STATUS_VIEW = true
